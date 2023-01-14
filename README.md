@@ -1,4 +1,5 @@
 # Weather-App
+![Weather App](https://user-images.githubusercontent.com/102135325/212462248-0269995d-2a3f-4106-b8c0-d204c737b211.gif)
 
 ## Description
 Introducing our new weather app! With this app, you can stay updated on the latest weather conditions for any city in the world. Simply enter the name of the city you're interested in, and you'll be presented with a 7-day forecast that includes information on temperature, precipitation, humidity, and more.
