@@ -1,6 +1,5 @@
 import React from 'react'
 import Moment from 'react-moment'
-import '../../src/index.css';
 
 export default function Bigdisplay({data1, data2}) {
     const date = new Date()
@@ -15,7 +14,7 @@ export default function Bigdisplay({data1, data2}) {
     return (
         <div className="col-12 col-md-8" id="right-side" >
             <div className="col m-1" id="display-side">
-                <div id="city-info" style={{textAlign:'center',}} className='bg-dark text-white'>
+                <div id="city-info" style={{textAlign:'center',}} className='bg-dark text-white m-2'>
                     <h3 style={{display:'inline'}}>{data1.name} (<Moment format='M/D/YYYY'>{date}</Moment>)</h3>
                     <img src={`https://openweathermap.org/img/wn/${data2.daily[0].weather[0].icon}@2x.png`} alt='weather icon' style={{display:'inline'}}/>
                     <p>Temp: {data2.daily[0].temp.day} °F</p>
