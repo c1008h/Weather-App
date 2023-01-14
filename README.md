@@ -1,11 +1,11 @@
 # Weather-App
 
 ## Description
-   Introducing our new weather app! With this app, you can stay updated on the latest weather conditions for any city in the world. Simply enter the name of the city you're interested in, and you'll be presented with a 7-day forecast that includes information on temperature, precipitation, humidity, and more.
+Introducing our new weather app! With this app, you can stay updated on the latest weather conditions for any city in the world. Simply enter the name of the city you're interested in, and you'll be presented with a 7-day forecast that includes information on temperature, precipitation, humidity, and more.
 
-    This weather app is perfect for anyone who wants to stay informed about the weather conditions for their current location, or for those planning a trip to a new city. With up-to-date information, you'll always know what to expect when you step outside. Whether you're a professional meteorologist or just someone who wants to know if they should bring an umbrella, this app is for you!
+This weather app is perfect for anyone who wants to stay informed about the weather conditions for their current location, or for those planning a trip to a new city. With up-to-date information, you'll always know what to expect when you step outside. Whether you're a professional meteorologist or just someone who wants to know if they should bring an umbrella, this app is for you!
 
-    Stay informed and stay prepared with this new weather app!
+Stay informed and stay prepared with this new weather app!
 
 ### Created with:
 - <a href='https://javascript.info/'>JavaScript</a>
